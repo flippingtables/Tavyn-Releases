@@ -1,3 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Tavyn</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Sat, 15 Aug 2026 15:18:42 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://flippingtables.github.io/Tavyn-Releases/Tavyn-1.0-1.zip" length="3200525" type="application/octet-stream" sparkle:edSignature="7fN71ovcosBA+cYNqJXLyfxAACQo6m13efgs8BKMIxxL7Np+UORrOQePENvTog2eEzQJk2dU+A1G0V0lI3YAAA=="/>
+        </item>
+    </channel>
 </rss>
