@@ -4,11 +4,11 @@
         <title>Tavyn</title>
         <item>
             <title>1.0</title>
-            <pubDate>Sat, 15 Aug 2026 15:48:04 +0200</pubDate>
+            <pubDate>Wed, 26 Aug 2026 21:08:42 +0200</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://www.sandagerdi.com/Tavyn-1.0-1.zip" length="3199633" type="application/octet-stream" sparkle:edSignature="hRJGu1yP8tjPkR2bDGeX9vFt+7y6hvzBZkVMpk5dc2fFLwxYbQt1kkLpSEDI99u93RCscAcYaRR627CXIO8zBg=="/>
+            <enclosure url="https://www.sandagerdi.com/Tavyn-1.1-2.zip" length="3269142" type="application/octet-stream" sparkle:edSignature="RlwL2j7w1/aKUPCd6pTCIMQoKDKzPvZz6XIdw3qRd9iWLT8FJt2/KdEIzVwO/6/I0D++eXqAMqNjBXCp/62IBw=="/>
         </item>
     </channel>
 </rss>
