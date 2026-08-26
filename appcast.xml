@@ -8,9 +8,9 @@
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://www.sandagerdi.com/Tavyn-1.1-3.zip" length="3269094" type="application/octet-stream" sparkle:edSignature="MItEmVpje5It8/mYkGvtQ7Vh+7CDUEBeYfMgn30wm7VJXTX3qUVaF6g9RcVLQNu9GyJqJvJlwKtX2oeIrWm+CQ=="/>
+            <enclosure url="https://www.sandagerdi.com/Tavyn-Releases/Tavyn-1.1-3.zip" length="3269094" type="application/octet-stream" sparkle:edSignature="MItEmVpje5It8/mYkGvtQ7Vh+7CDUEBeYfMgn30wm7VJXTX3qUVaF6g9RcVLQNu9GyJqJvJlwKtX2oeIrWm+CQ=="/>
             <sparkle:deltas>
-                <enclosure url="https://www.sandagerdi.com/Tavyn3-1.delta" sparkle:deltaFrom="1" length="11514" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sxYWYpPsEld694DtWLPq+AdLdVn3RQSUJVn93PSNXppOqKGDAK2KL3VF2Mb5P0TauwrYvwpXbdNwdv5GXWVYAA=="/>
+                <enclosure url="https://www.sandagerdi.com/Tavyn-Releases/Tavyn3-1.delta" sparkle:deltaFrom="1" length="11514" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sxYWYpPsEld694DtWLPq+AdLdVn3RQSUJVn93PSNXppOqKGDAK2KL3VF2Mb5P0TauwrYvwpXbdNwdv5GXWVYAA=="/>
             </sparkle:deltas>
         </item>
         <item>
@@ -19,7 +19,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://www.sandagerdi.com/Tavyn-1.1-2.zip" length="3269142" type="application/octet-stream" sparkle:edSignature="RlwL2j7w1/aKUPCd6pTCIMQoKDKzPvZz6XIdw3qRd9iWLT8FJt2/KdEIzVwO/6/I0D++eXqAMqNjBXCp/62IBw=="/>
+            <enclosure url="https://www.sandagerdi.com/Tavyn-Releases/Tavyn-1.1-2.zip" length="3269142" type="application/octet-stream" sparkle:edSignature="RlwL2j7w1/aKUPCd6pTCIMQoKDKzPvZz6XIdw3qRd9iWLT8FJt2/KdEIzVwO/6/I0D++eXqAMqNjBXCp/62IBw=="/>
         </item>
     </channel>
 </rss>
