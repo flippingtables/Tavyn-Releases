@@ -3,32 +3,33 @@
     <channel>
         <title>Tavyn</title>
         <item>
+            <title>1.3</title>
+            <pubDate>Thu, 08 Oct 2026 19:39:30 +0200</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://www.sandagerdi.com/Tavyn-Releases/Tavyn-1.3-5.zip" length="3289147" type="application/octet-stream" sparkle:edSignature="gcfmCE8LP6A0N04i02L+UIT3Cm+TTSs4FOK5VXvZJzeAjbhBt84rbJXl6wvLEsE6OPqN6ZAWWhIPKf2fVANjAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://www.sandagerdi.com/Tavyn-Releases/Tavyn5-4.delta" sparkle:deltaFrom="4" length="54606" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+eHYTEFgie/q8LJclGoM4bfUK8uqm8lo1c12EXqM0ravtHUh4aCDpavCjS2RkGKJaZyg5G1GoTlrEY8bdNifAg=="/>
+                <enclosure url="https://www.sandagerdi.com/Tavyn-Releases/Tavyn5-3.delta" sparkle:deltaFrom="3" length="156854" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XgSqcrDg5/e+LmidbbrlrRP35RDyBFc0JbFfiJnVMUMKngkn4wUrE35ESH0/bVN8QqCzmeVw6ODpvrCO9xX/Bg=="/>
+                <enclosure url="https://www.sandagerdi.com/Tavyn-Releases/Tavyn5-1.delta" sparkle:deltaFrom="1" length="156650" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="eBufe8xzUzHE9wupxqytTHb9Kz8lBHAdAWgm4Kv4gsi6dmKigqOm/2KbUVPMFCKoclwGbB2T9BMlinQMPAiyCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2</title>
-            <pubDate>Wed, 07 Oct 2026 20:01:18 +0200</pubDate>
+            <pubDate>Thu, 08 Oct 2026 19:39:30 +0200</pubDate>
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://www.sandagerdi.com/Tavyn-Releases/Tavyn-1.2-4.zip" length="3287567" type="application/octet-stream" sparkle:edSignature="K5INICE1tHZHndKDBoyU8NlSgYE1Y+3Fxubw6XSrgFPBSdI69GOMkiwLLMJ/YTP0MRpuoF/ssccalw2DsoleDg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://www.sandagerdi.com/Tavyn-Releases/Tavyn4-3.delta" sparkle:deltaFrom="3" length="155702" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8kNFzhv9s7IYbPfM7vCe7nhypRzjxbBhPWJAEGTAxSz7a+FWsT4TVrmpI42ZTBIxsqf9OW5D8uXx3PrQDnqLBA=="/>
-                <enclosure url="https://www.sandagerdi.com/Tavyn-Releases/Tavyn4-1.delta" sparkle:deltaFrom="1" length="156138" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1rUGO3k/Zplzrm3YgYbujmLZK66CqgfMVq2YN8jAWDbFq7Xc44DASF3rq1JnbDaSy2QvUyyhzFfrbgYO1TkHDA=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>1.1</title>
-            <pubDate>Wed, 07 Oct 2026 20:01:18 +0200</pubDate>
+            <pubDate>Thu, 08 Oct 2026 19:39:30 +0200</pubDate>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://www.sandagerdi.com/Tavyn-Releases/Tavyn-1.1-3.zip" length="3269094" type="application/octet-stream" sparkle:edSignature="MItEmVpje5It8/mYkGvtQ7Vh+7CDUEBeYfMgn30wm7VJXTX3qUVaF6g9RcVLQNu9GyJqJvJlwKtX2oeIrWm+CQ=="/>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Wed, 07 Oct 2026 20:01:18 +0200</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://www.sandagerdi.com/Tavyn-Releases/Tavyn-1.1-2.zip" length="3269142" type="application/octet-stream" sparkle:edSignature="RlwL2j7w1/aKUPCd6pTCIMQoKDKzPvZz6XIdw3qRd9iWLT8FJt2/KdEIzVwO/6/I0D++eXqAMqNjBXCp/62IBw=="/>
         </item>
     </channel>
 </rss>
